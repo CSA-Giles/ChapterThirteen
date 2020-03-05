@@ -26,9 +26,9 @@ accessed at a later date from a separate class, as well as find a data set<br>
         Finally, it will ask if you want to access a certain account, and pull up that record.</p>
 <p>#6. What is a try catch statement and why do you need the catch exception?
         A try catch statement is made to execute code blocks while looking out for errors. The catch part is needed because otherwise there will be no way to show an error.</p>
-<p>#?  Screen shot of console showing OutOfState or InState customers read from file. Display account info - Total - and specific customer.</p>
+<p>#7.  Screen shot of console showing OutOfState or InState customers read from file. Display account info - Total - and specific customer.</p>
 <img src="InState.PNG">
-<img src="OutState.PNG>
+<img src="OutState.PNG">
 
 <hr>
 <p>
