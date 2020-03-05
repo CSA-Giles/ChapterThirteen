@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+            <state relative-caret-position="476">
+              <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -42,7 +42,7 @@
       <file leaf-file-name="CreateFilesBasedOnState.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="311">
               <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -51,10 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadStateFile.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadStateFile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/youDoIt/ReadStateFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="-314">
               <caret line="17" column="85" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
             </state>
           </provider>
@@ -81,8 +81,8 @@
         <option value="$PROJECT_DIR$/src/youDoIt/InStateCusts.txt" />
         <option value="$PROJECT_DIR$/src/youDoIt/OutStateCusts.txt" />
         <option value="$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/youDoIt/ReadStateFile.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -260,6 +260,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -269,12 +270,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -288,6 +289,34 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32943678" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -382,13 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/youDoIt/OutStateCusts.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1766">
@@ -396,9 +418,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/ReadStateFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-314">
+          <caret line="17" column="85" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="311">
           <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -406,10 +435,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/youDoIt/ReadStateFile.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="17" column="85" selection-start-line="17" selection-start-column="85" selection-end-line="17" selection-end-column="85" />
+        <state relative-caret-position="476">
+          <caret line="28" column="58" lean-forward="true" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
         </state>
       </provider>
     </entry>
