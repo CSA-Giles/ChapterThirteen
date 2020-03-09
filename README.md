@@ -2,7 +2,7 @@
 <p>
 ------------------------------------------------------------------------<br>
 This project is created to test the abilities of reading and writing data <br>
-Into a .txt file to be stored for later use. Then, the stored data can be <br>
+into a .txt file to be stored for later use. Then, the stored data can be <br>
 accessed at a later date from a separate class, as well as find a data set<br>
 ------------------------------------------------------------------------</p>
 
@@ -30,3 +30,28 @@ accessed at a later date from a separate class, as well as find a data set<br>
 <img src="InState.PNG">
 <img src="OutState.PNG">
 <img src="Seeker.PNG">
+
+
+<hr>
+<p>
+------------------------------------------------------------------------<br>
+This is the project README file. Here, you should describe your project.<br>
+Tell the reader (someone who does not know anything about this project)<br>
+all he/she needs to know. The comments should usually include at least:<br>
+------------------------------------------------------------------------</p>
+
+<hr>
+
+# Lesson 1.2.1
+<li>PURPOSE OF PROJECT:                              </li>
+<li>VERSION or DATE:                                 </li>
+<li>HOW TO START THIS PROJECT:                       </li>
+<li>AUTHORS:                                         </li>
+<li>USER INSTRUCTIONS:                               </li>
+
+<p>#3. What are the methods of this class? Be sure to include parameters and return types. Using your own words, write a brief description of each method. </p>
+<p>
+<p>#?  EXAMPLE Insert question you are answering here </p>
+<p>#?  EXAMPLE Insert question you are answering here </p>
+<img src="screenshot.jpg" alt="How to Place A Screen Shot">
+
