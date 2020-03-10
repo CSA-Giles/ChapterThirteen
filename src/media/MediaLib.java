@@ -75,7 +75,7 @@ public class MediaLib {
 
         String songInfo = MediaFile.readString();
         while (songInfo != null){
-            System.out.println("From File: " + songInfo);
+            System.out.println(MediaFile.readString());
             songInfo = MediaFile.readString();
         }
 
