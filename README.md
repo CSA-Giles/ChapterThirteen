@@ -50,8 +50,7 @@ all he/she needs to know. The comments should usually include at least:<br>
 <li>USER INSTRUCTIONS:                               </li>
 
 <p>#3. What are the methods of this class? Be sure to include parameters and return types. Using your own words, write a brief description of each method. </p>
-<p>
-<p>#?  EXAMPLE Insert question you are answering here </p>
-<p>#?  EXAMPLE Insert question you are answering here </p>
-<img src="screenshot.jpg" alt="How to Place A Screen Shot">
+<img src="121 #3.PNG">
+
+<img src="121_Loop.PNG">
 
