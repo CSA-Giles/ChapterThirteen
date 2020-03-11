@@ -50,7 +50,7 @@ all he/she needs to know. The comments should usually include at least:<br>
 <li>USER INSTRUCTIONS:                               </li>
 
 <p>#3. What are the methods of this class? Be sure to include parameters and return types. Using your own words, write a brief description of each method. </p>
-<img src="121 #3.PNG">
+<img src="121_3.PNG">
 <p>#29. Which construct (for or while) do you think is better and why? </p>
 <p>I think that the while loop works better for this situation because it allows you to add as many songs as you want without altering code. If you had a song limit then a for loop would end up working better</p>
 
