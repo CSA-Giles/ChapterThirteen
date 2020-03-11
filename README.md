@@ -51,6 +51,13 @@ all he/she needs to know. The comments should usually include at least:<br>
 
 <p>#3. What are the methods of this class? Be sure to include parameters and return types. Using your own words, write a brief description of each method. </p>
 <img src="121 #3.PNG">
+<p>#29. Which construct (for or while) do you think is better and why? </p>
+<p>I think that the while loop works better for this situation because it allows you to add as many songs as you want without altering code. If you had a song limit then a for loop would end up working better</p>
 
+<p>#Conclusion 1. A for loop would work good when you only need a certain amount of loops to occur, such as reading through the length of a word. A while loop, on the other hamd, would be
+useful if you weren't positive how long you would need the loop to be, and you needed it to run until a condition was met.</p>
+<p>#Conclusion 2. The creation of tablets had promted the requirement to make a new Android OS, Honeycomb, to be able to run them. But,
+maintaining the older versions was important because Android Phones didn't see any new updates until 4.0 Ice Cream Sandwich.</p>
 <img src="121_Loop.PNG">
+<img src="121_highRating.PNG">
 
